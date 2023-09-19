@@ -5,5 +5,5 @@
 No fancy *command line* here!
 All you have to do is **insert this line of code into your website's HTML code**:
 ~~~
- -- put code here --
+<script src="https://raw.githubusercontent.com/redwoodsteve/windowJS/main/src/window.js"></script>
 ~~~
