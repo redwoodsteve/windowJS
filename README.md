@@ -19,4 +19,5 @@ mask(url, replace)
 **replace**: The URL to show in history, instead of the current URL.
 
 > #### A bit about tab masking
-> Tab masking is where you, in most cases, open an *about:blank* page and inject HTML content into it. With this version, you can change the current tab's URL with another one, so > only that will show up in your history. If you don't specify a tab to replace with, then you will see the current tab in your history (but not the masked tab.)
+> Tab masking is where you, in most cases, open an *about:blank* page and inject HTML content into it. With this version, you can change the current tab's URL with another one, so only that will show up in your history. If you don't specify a tab to replace with, then you will see the current tab in your history (but not the masked tab.)
+> If you are a bit confused, here is a video explaining it: * - insert video link here - *
